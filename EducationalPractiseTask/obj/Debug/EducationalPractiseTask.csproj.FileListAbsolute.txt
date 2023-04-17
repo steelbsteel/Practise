@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\bin\Debug\EducationalPractiseTask.exe.config
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\bin\Debug\EducationalPractiseTask.exe
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\bin\Debug\EducationalPractiseTask.pdb
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\App.g.cs
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask_MarkupCompile.cache
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask_MarkupCompile.lref
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\App.baml
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.g.resources
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.Properties.Resources.resources
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.exe
+C:\Users\user\source\repos\EducationalPractiseTask\EducationalPractiseTask\obj\Debug\EducationalPractiseTask.pdb
